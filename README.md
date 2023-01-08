@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohitSamarth22
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Development
 
 <!---
 RohitSamarth22/RohitSamarth22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
